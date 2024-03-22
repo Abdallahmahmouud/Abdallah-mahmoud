@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet"
+		href="style.css">
+	<title>About Us</title>
+</head>
+
+<body>
+	<header>
+		<nav>
+			<div class="logo">
+			</div>
+			<ul class="nav-links">
+				<li><a href="#">
+				Home</a>
+				</li>
+				<li><a href="#">
+				About</a>
+				</li>
+				<li><a href="#">
+				Services</a>
+				</li>
+				<li><a href="#">
+				Contact</a>
+				</li>
+			</ul>
+		</nav>
+	</header>
+
+	<section class="about">
+		<h1>About Us</h1>
+		<p style="font-weight: bold">
+		3AStore International brand.....
+		</p>
+		<div class="about-info">
+			<div class="about-img">
+				<img src=
+"https://www.kdmpop.com/wp-content/uploads/2021/09/shutterstock_1802772580-min-scaled.jpg" alt="3AStore">
+			</div>
+			<div>
+			<p> 3AStore is a brand that specializes in online shopping and is one of the largest brands in the world.
+                 This large edifice was created by the brilliant engineer Abdallah Mahmoud.
+			</p>
+				<button>Read More...</button>
+			</div>
+		</div>
+	</section>
+
+	<section class="team">
+		<h1>Meet Our Team</h1>
+		<div class="team-card">
+			<div class="card">
+				<div class="card-img">
+					<img src=
+"https://logos.textgiraffe.com/logos/logo-name/Abdallah-designstyle-cartoon-m.png" alt="User 1">
+				</div>
+				<div class="card-info">
+					<h2 class="card-name">ِAbdallah mahmoud</h2>
+					<p class="card-role">Owner</p>
+					<p class="card-email">Abdallah@.com</p>
+					<p><button class="button">Contact</button></p>
+				</div>
+			</div>
+
+		</div>
+	</section>
+
+	<footer>
+		<p>© 2024 3AStore. All Rights Reserved.</p>
+	</footer>
+</body>
+
+</html>
